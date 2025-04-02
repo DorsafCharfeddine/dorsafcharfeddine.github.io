@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.18c476ba.css",
-    "main.js": "/static/js/main.4b057efb.js",
+    "main.js": "/static/js/main.57e59633.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/yc.png": "/static/media/yc.d4d5d91bedd3a4db65cd.png",
     "static/media/jobMate.png": "/static/media/jobMate.5c325c03b862ff655bf0.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/about.png": "/static/media/about.a3355d5e215ee1b348d0.png",
     "static/media/girl_icon.png": "/static/media/girl_icon.f56706c0a0f6e2abdbbf.png",
     "static/media/dorsaf_pic_graduation.jpeg": "/static/media/dorsaf_pic_graduation.462eb795605b918f7ade.jpeg",
     "static/media/progress.png": "/static/media/progress.06e9e32d7636d2d350e9.png",
     "static/media/CV_Dorsaf_Charfeddine.pdf": "/static/media/CV_Dorsaf_Charfeddine.2030da7de2f940915243.pdf",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/rh_app.png": "/static/media/rh_app.6ede4f1dceade9381467.png",
     "static/media/base_ecu.png": "/static/media/base_ecu.559c565f614ac103c38f.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
-    "main.4b057efb.js.map": "/static/js/main.4b057efb.js.map",
+    "main.57e59633.js.map": "/static/js/main.57e59633.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c476ba.css",
-    "static/js/main.4b057efb.js"
+    "static/js/main.57e59633.js"
   ]
 }
