@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.18c476ba.css",
-    "main.js": "/static/js/main.a0c7d5b5.js",
+    "main.js": "/static/js/main.ca5a6ccd.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/yc.png": "/static/media/yc.d4d5d91bedd3a4db65cd.png",
@@ -12,6 +12,7 @@
     "static/media/dorsaf_pic_graduation.jpeg": "/static/media/dorsaf_pic_graduation.462eb795605b918f7ade.jpeg",
     "static/media/progress.png": "/static/media/progress.06e9e32d7636d2d350e9.png",
     "static/media/CV_Dorsaf_Charfeddine.pdf": "/static/media/CV_Dorsaf_Charfeddine.2030da7de2f940915243.pdf",
+    "static/media/CV_Dorsaf_Charfeddine_FR.pdf": "/static/media/CV_Dorsaf_Charfeddine_FR.192fc9dc01d691310d96.pdf",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/rh_app.png": "/static/media/rh_app.6ede4f1dceade9381467.png",
     "static/media/base_ecu.png": "/static/media/base_ecu.559c565f614ac103c38f.png",
@@ -19,12 +20,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
-    "main.a0c7d5b5.js.map": "/static/js/main.a0c7d5b5.js.map",
+    "main.ca5a6ccd.js.map": "/static/js/main.ca5a6ccd.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c476ba.css",
-    "static/js/main.a0c7d5b5.js"
+    "static/js/main.ca5a6ccd.js"
   ]
 }
