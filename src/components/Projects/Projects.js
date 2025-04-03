@@ -62,7 +62,7 @@ function Projects() {
               imgPath={rh_app}
               isBlog={false}
               title="HR Test Application"
-              description="An HR recruitment platform that enables HR teams to organize interviews and evaluate candidates efficiently. The system allows recruiters to schedule interviews, assign tests, and automatically calculate scores based on candidate responses. Built with Java, Spring Boot, Angular, and MySQL, the platform streamlines the hiring process by providing structured assessments, real-time scoring, and candidate tracking."
+              description="An HR recruitment platform that enables HR teams to organize interviews and evaluate candidates efficiently. The system allows recruiters to schedule interviews, assign tests, and automatically calculate scores based on candidate responses. Built with Java, and JavaScript, the platform streamlines the hiring process by providing structured assessments, real-time scoring, and candidate tracking."
             />
           </Col>
 
