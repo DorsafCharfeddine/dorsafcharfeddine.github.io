@@ -5,7 +5,7 @@ function Type() {
   return (
     <Typewriter
       options={{
-        strings: ["Full Stack Developer", "Software Engineer"],
+        strings: ["SAP Consultant", "Full Stack Developer", "Software Engineer"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,

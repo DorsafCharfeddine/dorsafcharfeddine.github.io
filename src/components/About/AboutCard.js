@@ -8,12 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Dorsaf Charfeddine </span>
-            from <span className="purple"> Tunisia.</span>
+            Hi everyone, I’m <span className="purple">Dorsaf Charfeddine</span> from <span className="purple">Tunisia</span>.
             <br />
-            I am a passionate Full-Stack Web Developer, eager to build innovative and user-friendly web applications.
+            I’m a Software Engineer with experience in <span className="purple">SAP HCM</span> and <span className="purple">ABAP</span>, interested in building modern web applications and contributing to <span className="purple">HRIS and ERP</span> projects.
             <br />
-            I recently graduated from ESPRIT with a strong background in web development technologies.
+            I graduated from ESPRIT with a strong foundation in web development technologies.
             <br />
             <br />
             Apart from coding, here are some of the activities I love to do:

@@ -15,23 +15,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a passionate Full-Stack Web Developer with a drive for creating innovative and user-friendly web applications. I recently graduated from ESPRIT and am eager to apply and further develop my skills in a professional setting.
+              I’m a <b className="purple">SAP HCM Consultant</b> and a Full-Stack Developer, focused on building reliable HR/ERP solutions and user-friendly web applications.
+              <br />
+              <br />I work on <b className="purple">SAP HCM (Time Management, Payroll support)</b>, ABAP developments, integrations, and I also build modern web apps.
               <br />
               <br />
-              I’m fluent in languages like
+              I’m fluent in{" "}
               <i>
-                <b className="purple"> Java, JavaScript, and TypeScript.</b>
+                <b className="purple">Java, JavaScript, and TypeScript.</b>
               </i>
               <br />
               <br />
-              And have hands-on experience with libraries and frameworks such as
+              And have hands-on experience with{" "}
               <i>
-                <b className="purple"> React, Angular, Spring Boot, Node.js. </b>
+                <b className="purple">React, Angular, Spring Boot, Node.js.</b>
               </i>
-              <br />
-              <br />
-              As well as working with databases like
-              <b className="purple"> MongoDB, PostgreSQL, and MySQL.</b>
               <br />
               <br />
               Feel free to connect for collaboration.
